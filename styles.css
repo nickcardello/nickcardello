@@ -34,7 +34,8 @@ body {
     width: 100%;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
+    
 }
 .profilepic {
     margin-left: 3em;
