@@ -17,7 +17,6 @@ body {
     width: 100vw;
     display: flex;
     justify-content: center;
-    align-items: center;
     background: linear-gradient(142deg, rgba(255,255,255,1) 0%, rgba(227,27,35,1) 44%, rgba(0,0,0,1) 73%);   
 }
 .card {
@@ -28,6 +27,7 @@ body {
     border-radius: 8px;
     display: flex;
     flex-direction: column;
+    margin-top: 3rem;
 }
 .header {
     height: 30%;
